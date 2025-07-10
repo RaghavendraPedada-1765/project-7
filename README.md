@@ -1,1 +1,3 @@
-# project-7
+
+
+The Password Generator is a simple tool designed to create strong, random passwords to enhance your online security. It allows users to customize password length and include various character types such as uppercase letters, lowercase letters, numbers, and special symbols. Whether you need a quick password for a new account or a complex one for sensitive data, this generator provides an easy and reliable way to produce secure passwords. The tool can be used via command-line or integrated into scripts, making it flexible for various use cases. Open-source and easy to customize, the Password Generator aims to help users generate robust passwords effortlessly and confidently.
